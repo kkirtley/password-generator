@@ -1,0 +1,5 @@
+.venv/
+text
+output
+.vscode
+unzipped_source_files
